@@ -67,7 +67,7 @@ Business Insights
 > Upload your dashboard screenshot to the **Images** folder and replace the line below.
 
 ```markdown
-![Dashboard](Image/Dashboard.png)
+![Amazon Sales Dashboard](Images/Dashboard.png)
 ```
 
 ---
