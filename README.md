@@ -38,7 +38,7 @@ The objective of this project is to clean, analyze, and visualize sales data to 
 - Records: 128K+ sales records
 - Type: E-commerce Sales Data
 
-> **Note:** The original dataset is not included in this repository because of GitHub's file size limitations.
+The cleaned dataset is provided as a compressed ZIP file (`Data.zip`) to reduce repository size and comply with GitHub upload limitations.
 
 ---
 
@@ -64,11 +64,7 @@ Business Insights
 
 ## 📊 Dashboard Preview
 
-> Upload your dashboard screenshot to the **Image** folder and replace the line below.
-
-```markdown
 ![Amazon Sales Dashboard](Image/Dashboard.png)
-```
 
 ---
 
